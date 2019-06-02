@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: #737373;
+}
+
+textarea {
+  width: 315px;
+  height: 70px;
+  margin-top: 10px;
+  margin-left: 480px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+form {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#add-button {
+  margin-right: 10px;
+}
+
+.button-div {
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+select {
+  margin-left: 550px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
