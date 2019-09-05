@@ -1,1 +1,4 @@
+CipherText Generator
+=====================
+
 This project is a React web application which allows user to run various cryptographic algorithm to generate cipher text on their input. The inspiration for this project came from my summer internship. While there, I got the chance to work with some hashing libraries and write some scripts for hashing and it was something that I wanted to explore more on my own time. One thing that I was able to learn from this project is the use of React's Context API which allows for components to more easily pass their state down to other components which are not it's direct descendants. It allowed me to learn a new facet of the library, as well as see an interesting alternative to using Redux with React.
